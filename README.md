@@ -18,7 +18,7 @@ Community Economy API built for enhanced role play. This system will focus prima
 - Message Board API
   - Ability to leave messages for employees
   - Ability to setup SOP's via these notes that employees have to sign
-  - Leave messages for employees
+  - Leave messages for candidates
 - Payment API
   - Manage payroll ledger - Only used for paying staff
   - Manage company ledger - Money can be transferred to payroll ledger. Used to purchase company supplies.
